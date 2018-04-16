@@ -1,6 +1,6 @@
-<img align="right" src="https://cdn.datafloq.com/cache/cc/f0/ccf05eed78864d4e31798f90a528a408.png" width="150" />
 
 # Aerospike Cluster Backup
+<img align="right" src="https://images.hired.com/companies/6324/logos/1439429859/offer.png" width="160" />
 
 **Table of Contents:**
 1. [Install required packages](#install-required-packages)  
