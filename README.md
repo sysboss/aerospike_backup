@@ -1,4 +1,15 @@
+<img align="right" src="https://cdn.datafloq.com/cache/cc/f0/ccf05eed78864d4e31798f90a528a408.png" width="150" />
+
 # Aerospike Cluster Backup
+
+***
+**Table of Contents:**
+1. [Install required packages](#install-required-packages)  
+2. [Usage](#usage)  
+3. [Automate the backup](#automate-the-backup)  
+4. [Restore](#restore)  
+***
+
 ### Description
 Aerospike provides the ability to backup and restore your cluster data.
 Under normal circumstances, data replication (within a cluster) and cross data center replication (XDR) ensure that data is not lost even when there are hardware failures or network outages.
