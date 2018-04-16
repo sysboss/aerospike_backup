@@ -1,12 +1,10 @@
 # Aerospike Cluster Backup
 ### Description
 Aerospike provides the ability to backup and restore your cluster data.
-
 Under normal circumstances, data replication (within a cluster) and cross data center replication (XDR) ensure that data is not lost even when there are hardware failures or network outages.
-
 However, it is good practice to periodically create backups for easier recovery from catastrophic data center failures or administrative accidents.
 
-This how-to tutorial shows how to automate scheduled backups of Aerospike database.
+This how-to tutorial shows how to automate scheduled backups of Aerospike database.  
 The script can store backups on S3 and local copies, according to your requirement.
 
 Based on official backup/restore utilities (asbackup). Requires: AWS CLI and Tar packages.
