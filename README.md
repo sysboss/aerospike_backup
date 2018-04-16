@@ -2,7 +2,6 @@
 
 # Aerospike Cluster Backup
 
-***
 **Table of Contents:**
 1. [Install required packages](#install-required-packages)  
 2. [Usage](#usage)  
